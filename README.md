@@ -1,0 +1,28 @@
+# Hi, I'm Henry Vu
+
+Software Engineer specializing in backend development with Java and fullstack development.
+
+## About Me
+
+- Professionally builds scalable and maintainable systems in Java
+- Passionate about digging deep into the fundamentals of software
+- Experience developing with Node.js, TypeScript, and React
+- Open source contributor
+- Interested in distributed systems and blockchain technology
+
+## Tech Stack
+
+**Experience:**
+- Java, SpringBoot, Kafka, MySQL, PostgreSQL, MongoDB, ElasticSearch
+- Node.js, React, Next.js
+
+**Languages:**
+- Java, Go, Rust, JavaScript, TypeScript, C++
+
+**Interested Technology:**
+- Cosmos, Hyperledger
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryvuoj9&show_icons=true&theme=default&hide_border=true)
+
