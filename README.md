@@ -22,7 +22,3 @@ Software Engineer specializing in backend development with Java and fullstack de
 **Interested Technology:**
 - Cosmos, Hyperledger
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryvuoj9&show_icons=true&theme=default&hide_border=true)
-
