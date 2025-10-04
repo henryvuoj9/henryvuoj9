@@ -1,6 +1,6 @@
 # Hi, I'm Henry Vu
 
-Software Engineer specializing in backend development with Java and fullstack development.
+Software Engineer specializing in backend development with Java.
 
 ## About Me
 
