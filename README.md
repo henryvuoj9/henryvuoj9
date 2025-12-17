@@ -20,5 +20,5 @@ Software Engineer specializing in backend development with Java.
 - Java, Go, Rust, JavaScript, TypeScript, C++
 
 **Interested Technology:**
-- Cosmos, Hyperledger
+- Cosmos, Hyperledger, Avalanche
 
